@@ -79,7 +79,7 @@ p {
   border: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   div {
     display: block;
   }
@@ -113,7 +113,7 @@ p {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 330px) {
   h1, p {
     text-align: center;
     margin-right: 40px;
